@@ -1,5 +1,5 @@
-I am a developer from Washington state
-I mostly like to make video games
+- I am a developer from Washington state
+- I mostly like to make video games
 
 Contact me:
 - Email: jacobsteel511@gmail.com
